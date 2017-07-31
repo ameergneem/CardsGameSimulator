@@ -44,5 +44,5 @@ Ex: The player’s hand is 2, 2, 3, 3, 3, 6, 6, 6, K, K. Choose: 2.
 
 
 
-![Alt text](/relative/path/to/Capture.PNG?raw=true "Optional Title")
+![Alt text](Capture.PNG "Optional Title")
 
